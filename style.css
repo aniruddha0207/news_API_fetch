@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+.container{
+    color: #7974cd;
+}
+.card-header{
+    background-color: #110101;
+}
+.btn{
+    color: rgb(196, 121, 23);
+}
+.accordion{
+    opacity: 0.8;
+    
+}
